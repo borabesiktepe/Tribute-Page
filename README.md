@@ -1,1 +1,1 @@
-A simple HTML Mustafa Kemal Atatürk tribute page.
+A simple HTML based Mustafa Kemal Atatürk tribute page.
