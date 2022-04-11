@@ -12,8 +12,20 @@ body {
   font-size: 1.5rem;
 }
 
+h1 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 35px;
+}
+
 h2 {
   color: #333;
+  font-family: 'Trebuchet MS';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 27px;
 }
 
 #img-caption {
